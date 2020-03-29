@@ -59,10 +59,3 @@ buck-out/
 package-lock.json
 packager-info.json
 settings.json
-
-
-web-build/
-
-.expo/
-
-lib/
